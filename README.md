@@ -12,6 +12,8 @@ Highly customizable, we can use images, our own css styles (i.e background color
 - Clickable notifications with optional navigation
 - Lightweight and easy to use
 
+  ![](https://res.cloudinary.com/ddqzbu99e/image/upload/v1740143142/Screenshot_2025-02-21_180538_kgqz7x.png)
+
 ## 📦 Installation
 To install ToastX, run the following command:
 
