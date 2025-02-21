@@ -38,7 +38,7 @@ yarn add toastx
 
 ## 🔧 Usage
 
-### 1️⃣ Wrap your app with `ToastManager`
+### 1️⃣ Wrap your app with `ToastContainer`
 In your root component (e.g., `App.js`), wrap your application inside the `ToastContainer`.
 
 ```jsx
