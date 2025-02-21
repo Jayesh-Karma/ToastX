@@ -1,0 +1,17 @@
+{
+  "name": "toastx",
+  "version": "1.0.0",
+  "main": "index.jsx",
+  "description": "A sleek and customizable toast notification library for React",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jayesh Karma",
+  "license": "ISC",
+  "dependencies": {
+    "framer-motion": "^12.4.7",
+    "lucide-react": "^0.475.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
