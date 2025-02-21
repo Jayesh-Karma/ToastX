@@ -2,7 +2,8 @@
 
 ToastX is a lightweight and highly customizable React toast notification package that provides visually appealing and responsive notifications with smooth animations.
 
-Highly customizable, we can use images, our own css styles (i.e background colors etc) to modify this toasts.
+Highly customizable, we can use images, our own css styles (i.e background colors etc) to modify this toasts and 
+Open other pages also just by clicking on the toast just like notifications.
 
 ## 🚀 Features
 - Fully customizable styles
@@ -38,7 +39,7 @@ yarn add toastx
 ## 🔧 Usage
 
 ### 1️⃣ Wrap your app with `ToastManager`
-In your root component (e.g., `App.js`), wrap your application inside the `ToastManager`.
+In your root component (e.g., `App.js`), wrap your application inside the `ToastContainer`.
 
 ```jsx
 import React from "react";
@@ -112,12 +113,21 @@ showToast(
 
 ## 🔥 Github
 [Github](https://github.com/Jayesh-Karma/ToastX)
-
+[Linkedin](https://www.linkedin.com/in/jayesh-karma/)
+[email](jayeshkarma77@gmail.com)
 
 ## 👨‍💻 Contributing
 Feel free to submit issues or pull requests to improve ToastX.
 
+📬 Support
+
+For issues, suggestions, or feature requests, create an issue on GitHub or contact jayeshkarma77@gmail.com 📩
+
+If you love my work, consider buying me a coffee! ☕
+
+Enjoy using ToastX and make your notifications stand out! 🚀
+
 ---
 
-✨ Made with ❤️ by [Your Name]
+✨ Made with ❤️ by Jayesh Karma
 
