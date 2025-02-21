@@ -38,8 +38,8 @@ yarn add toastx
 
 ## 🔧 Usage
 
-### 1️⃣ Wrap your app with `ToastContainer`
-In your root component (e.g., `App.js`), wrap your application inside the `ToastContainer`.
+### 1️⃣ Use your app with `ToastContainer`
+In your root component (e.g., `App.jsx`, `main.jsx`), use your application with the `ToastContainer`.
 
 ```jsx
 import React from "react";
@@ -58,7 +58,7 @@ export default App;
 ```
 
 ### 2️⃣ Triggering a Toast Notification
-Use the `toast` hook to trigger a toast anywhere in your app.
+Use the `toast` to trigger a toast anywhere in your app.
 
 ```jsx
 import React from "react";
@@ -79,7 +79,7 @@ export default MyComponent;
 ```
 
 ## 🎨 Customization
-ToastX supports various custom styles for complete flexibility. It is done in a sequence manner only using parameters to keep it simple.
+ToastX supports various custom styles for complete flexibility. It is done sequentially only using parameters to keep it simple.
 The sequence for this parameters are in this way - 
 
 
