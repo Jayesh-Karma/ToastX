@@ -13,6 +13,14 @@ Highly customizable, we can use images, our own css styles (i.e background color
 - Lightweight and easy to use
 
   ![](https://res.cloudinary.com/ddqzbu99e/image/upload/v1740143142/Screenshot_2025-02-21_180538_kgqz7x.png)
+  
+
+## 🖼️ Screenshots
+
+ ![Success Toast](https://res.cloudinary.com/ddqzbu99e/image/upload/v1740143142/Screenshot_2025-02-21_180617_rav349.png)  
+ ![Error Toast](https://res.cloudinary.com/ddqzbu99e/image/upload/v1740143142/Screenshot_2025-02-21_180641_eshyci.png) 
+ ![Warning Toast](https://res.cloudinary.com/ddqzbu99e/image/upload/v1740143142/Screenshot_2025-02-21_180703_ioo4bd.png) 
+ ![Information Toast](https://res.cloudinary.com/ddqzbu99e/image/upload/v1740143142/Screenshot_2025-02-21_180722_l8rgod.png) 
 
 ## 📦 Installation
 To install ToastX, run the following command:
@@ -101,13 +109,6 @@ showToast(
   5000 // Duration (ms)
 );
 ```
-
-## 🖼️ Screenshots
-
- ![Success Toast](https://res.cloudinary.com/ddqzbu99e/image/upload/v1740143142/Screenshot_2025-02-21_180617_rav349.png)  
- ![Error Toast](https://res.cloudinary.com/ddqzbu99e/image/upload/v1740143142/Screenshot_2025-02-21_180641_eshyci.png) 
- ![Warning Toast](https://res.cloudinary.com/ddqzbu99e/image/upload/v1740143142/Screenshot_2025-02-21_180703_ioo4bd.png) 
- ![Information Toast](https://res.cloudinary.com/ddqzbu99e/image/upload/v1740143142/Screenshot_2025-02-21_180722_l8rgod.png) 
 
 ## 🔥 Github
 [Github](https://github.com/Jayesh-Karma/ToastX)
