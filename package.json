@@ -1,6 +1,6 @@
 {
   "name": "toastx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.jsx",
   "description": "A sleek and customizable toast notification library for React",
   "scripts": {
